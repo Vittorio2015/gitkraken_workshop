@@ -1,6 +1,7 @@
-README.md
+# GitKraken
+Hands-on workshop to demonstrate using Gitkraken as a GUI client through the Git Version Control system
 
-###NAME
+### NAME
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
