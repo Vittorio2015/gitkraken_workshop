@@ -41,6 +41,8 @@ est.pi <- function(n){
 
 
 # Square function
+# new comment here
+# more comment info
 square_it <- function(x){
   sq <- x*x
   return(sq)
@@ -48,6 +50,7 @@ square_it <- function(x){
 
 
 # Anscombe's quartet
+# new comment here again
 anscombes_quartet <- {
     library(Tmisc)
 
